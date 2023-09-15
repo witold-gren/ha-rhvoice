@@ -111,6 +111,7 @@ tts:
     | Georgian             | `natia`                                                                                                    |
     | Kyrgyz               | `azamat`, `nazgul`                                                                                         |
     | Macedonian           | `kiko`                                                                                                     |
+    | Poland               | `natan`, `michal`, `cezary`, `magda`, `alicja`                                                             |
     | Brazilian Portuguese | `letícia-f123`                                                                                             |
     | Russian              | `aleksandr`, `anna`, `arina`, `artemiy`, `elena`, <br>`evgeniy-rus`, `irina`, `pavel`, `yuriy`, `victoria` |
     | Tatar                | `talgat`                                                                                                   |
