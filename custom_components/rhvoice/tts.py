@@ -34,6 +34,7 @@ SUPPORTED_LANGUAGES = {
     "ka-GE": ("natia",),
     "ky-KG": ("azamat", "nazgul"),
     "mk": ("kiko",),
+    "pl-PL": ("natan", "michal", "cezary", "magda", "alicja"),
     "pt-BR": ("letícia-f123",),
     "ru-RU": (
         "aleksandr",
